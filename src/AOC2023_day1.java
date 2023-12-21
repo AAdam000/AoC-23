@@ -6,7 +6,7 @@ import java.util.Map;
 
 public class AOC2023_day1 {
     public static void main(String[] args) {
-        String path = "C:\\Users\\addel\\Desktop\\code lmao\\AOC23\\Aoc23 solutions\\src\\aoc.txt"; //path to file to read
+        String path = "path goes here"; //path to file to read
         System.out.println(solve1(path));
         System.out.println(solve2(path));
     }
